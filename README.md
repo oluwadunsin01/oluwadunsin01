@@ -7,6 +7,7 @@
 - ☁️ Exploring **Cloud Infrastructure, Automation, and DevOps**  
 - 🏢 **Interned at Cloud Netvox** ([@cloudnetvox](https://www.instagram.com/cloudnetvox)), where I developed **problem-solving, time management, and leadership skills**  
 - 👨‍🏫 Appointed to **teach new intakes**, enhancing my leadership and mentoring abilities  
+- 📞 **Deployed VoIP systems for businesses**, optimizing **call routing & network efficiency**  
 
 ## 🚀 What I'm Working On  
 - Expanding my expertise in **Cloud Computing & Linux Administration**  
@@ -29,8 +30,9 @@
 - 📸 Instagram: [@notdunsin](https://www.instagram.com/notdunsin)  
 
 ## 🎉 Fun Facts  
-- ♟️ I love playing **chess** and **the guitar**  
-- 🖥️ I'm always **learning new things**, especially **tech trends & computer hardware** on YouTube  
+- ♟️ I love playing **chess** and enjoy the strategy behind it  
+- 🎸 I play the **guitar** and love exploring different styles of music  
+- 🖥️ I'm always **learning new things**, especially **tech trends & computer hardware parts** on YouTube  
 - 🔧 Passionate about **problem-solving & open-source technologies**  
 
 ---
