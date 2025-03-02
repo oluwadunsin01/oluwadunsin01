@@ -5,6 +5,8 @@
 - 🖥️ Currently taking a **Linux course** to deepen my knowledge  
 - 📡 Experienced in **VoIP support & services**, **Asterisk**, **MySQL**, and **server management**  
 - ☁️ Exploring **Cloud Infrastructure, Automation, and DevOps**  
+- 🏢 **Interned at Cloud Netvox** ([@cloudnetvox](https://www.instagram.com/cloudnetvox)), where I developed **problem-solving, time management, and leadership skills**  
+- 👨‍🏫 Appointed to **teach new intakes**, enhancing my leadership and mentoring abilities  
 
 ## 🚀 What I'm Working On  
 - Expanding my expertise in **Cloud Computing & Linux Administration**  
@@ -34,4 +36,3 @@
 ---
 
 Looking forward to connecting and collaborating! 🚀  
-
