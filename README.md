@@ -27,7 +27,7 @@
 
 ## 📬 How to Reach Me  
 - 📧 Email: [sanni.samson@icloud.com](mailto:sanni.samson@icloud.com)  
-- 📸 Instagram: [@notdunsin](https://www.instagram.com/notdunsin)  
+- 📸 Instagram: [dunsin](https://www.instagram.com/dunsin0o)  
 
 ## 🎉 Fun Facts  
 - ♟️ I love playing **chess** and enjoy the strategy behind it  
